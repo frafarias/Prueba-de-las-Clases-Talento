@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: scroll;
+    font-display: fixed;
+    
+}
+
+h2{
+background-color: #ee1199;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    background-color: aqua;
+}
+.img{
+font-style: italic;
+font: optional;
+margin-left: 300px;
+margin-right: 200px;
+}
